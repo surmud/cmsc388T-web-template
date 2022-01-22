@@ -1,4 +1,5 @@
 # cmsc388T-web-template
 
-Website Template for Project 3
 Surmud Jamil
+
+In my website I added some content explaining who I am and what classes I've taken at UMD. I also added content about my projects and internships. 
