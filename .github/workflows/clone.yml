@@ -14,4 +14,4 @@ jobs:
         password: ${{secrets.password}}
         port: ${{secrets.port}}
         script: |
-          git clone
+          git clone git@github.com:surmud/cmsc388T-web-template.git
